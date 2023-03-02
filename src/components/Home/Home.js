@@ -1,7 +1,7 @@
 import React from "react";
 import "./Home.css";
 import { motion } from "framer-motion";
-import Typical from "react-typical";
+// import Typical from "react-typical";
 
 function Home(props) {
   const myProfileDetails = props.details;
@@ -31,7 +31,8 @@ function Home(props) {
           Hello, I am{" "}
           <span className="text-color-main-name">{myProfileDetails.name}</span>
           <br />
-          <Typical steps={myProfileDetails.role} loop={Infinity} />
+          {/* <Typical steps={myProfileDetails.role} loop={Infinity} /> */}
+          <h2>{myProfileDetails.role}</h2>
         </motion.h2>
         <br />
         <br />

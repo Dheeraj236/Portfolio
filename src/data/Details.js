@@ -18,7 +18,7 @@ export const DETAILS = {
     },
   },
   profilephoto: "assets/images/profilephoto.svg",
-  role: ["Software Developer", 2000, "MERN Stack Developer", 2000],
+  role: [ "MERN Stack Developer"],
   tag_line:
     "Knack of building applications with front and back end operations.",
   about_me: {
