@@ -2,7 +2,7 @@ export const DETAILS = {
   name: "Dheeraj Kumar",
   location: "Ananthapur, Andhra Pradesh, India",
   resumeLink:
-    "https://drive.google.com/file/d/1g0aQApyK3IrrzW9rpS5yq2JnZZYHaXKy/view?usp=sharing",
+    "https://drive.google.com/file/d/1WQqa8-VU0L1s5Olv97FtfaZmVv-qFqGk/view?usp=sharing",
   profile_links: {
     email: {
       link: "dheerajpamidi@gmail.com",
