@@ -114,7 +114,7 @@ export const DETAILS = {
       FE_ghlink: "https://github.com/Dheeraj236/Frontend-Shopping-APP",
       BE_ghlink: "https://github.com/Dheeraj236/Backend-Shopping-App",
       image: "assets/images/Ecommerce.png",
-      skills: "JavaScript, ReactJS, NodeJS, ExpressJS, MongoDB, CSS, JSX, MUI, Bootstrap, Npm libraries, etc.",
+      skills: "ReactJS, NodeJS, ExpressJS, MongoDB, Redux, Bootstrap, Npm libraries",
     },
     {
       id: "2",
@@ -124,7 +124,7 @@ export const DETAILS = {
       FE_ghlink: "https://github.com/Dheeraj236/Fend-Weather",
       BE_ghlink: "https://github.com/Dheeraj236/Bend-Weather",
       image: "assets/images/Weather.png",
-      skills: "JavaScript, ReactJS, NodeJS, ExpressJS, MongoDB, CSS, JSX, MUI, Bootstrap, Npm libraries, etc.",
+      skills: "ReactJS, NodeJS, ExpressJS, MongoDB, Bootstrap, Npm libraries",
     },
     {
       id: "3",
@@ -134,7 +134,7 @@ export const DETAILS = {
       FE_ghlink: "https://github.com/Dheeraj236/token-generator",
       BE_ghlink: "https://github.com/Dheeraj236/Backend_Token",
       image: "assets/images/Recipes.png",
-      skills: "JavaScript, ReactJS, NodeJS, ExpressJS, MongoDB, CSS, JSX, MUI, Bootstrap, Npm libraries, etc.",
+      skills: "ReactJS, NodeJS, ExpressJS, MongoDB, MUI, Bootstrap,Npm libraries",
     },
     {
       id: "4",
@@ -144,7 +144,7 @@ export const DETAILS = {
       FE_ghlink: "https://github.com/Dheeraj236/Fend-Booking",
       BE_ghlink: "https://github.com/Dheeraj236/Bend-Booking",
       image: "assets/images/hotelbooking.png",
-      skills: "JavaScript, ReactJS, NodeJS, ExpressJS, MongoDB, CSS, JSX, MUI, Bootstrap, Npm libraries, etc.",
+      skills: "ReactJS, NodeJS, ExpressJS, MongoDB, Bootstrap, Npm libraries",
     }
   ] 
 };

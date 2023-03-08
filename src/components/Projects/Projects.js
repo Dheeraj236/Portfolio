@@ -15,6 +15,7 @@ function Projects(props) {
     window.open(myProfileDetails.profile_links.github.link, "_blank");
   };
 
+
   return (
     <section id="projects">
       <div className="container">
@@ -73,14 +74,12 @@ function Projects(props) {
                     >
                       Backend
                     </CardLink>
-                    <CardLink
-                      href={project.skills}
-                      target="_blank"
-                      rel="noreferrer"
-                      className="projectbutton"
+                    <br></br> 
+                    <p
+                      className="project-desc"
                     >
-                      Skills
-                    </CardLink>
+                      Skills: {project.skills}
+                    </p>
                   </CardBody>
                 </Card>
               </div>
