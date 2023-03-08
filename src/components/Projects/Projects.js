@@ -73,6 +73,13 @@ function Projects(props) {
                     >
                       Backend
                     </CardLink>
+                    <CardLink
+                      href={project.skills}
+                      rel="noreferrer"
+                      className="projectbutton"
+                    >
+                      Skills
+                    </CardLink>
                   </CardBody>
                 </Card>
               </div>
