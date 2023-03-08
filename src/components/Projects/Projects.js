@@ -75,6 +75,7 @@ function Projects(props) {
                     </CardLink>
                     <CardLink
                       href={project.skills}
+                      target="_blank"
                       rel="noreferrer"
                       className="projectbutton"
                     >
