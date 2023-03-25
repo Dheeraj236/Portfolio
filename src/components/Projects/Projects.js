@@ -50,14 +50,14 @@ function Projects(props) {
                     style={{ marginLeft: "3%" }}
                   />
                   <CardBody>
-                  <CardLink
+                  {/* <CardLink
                       href={project.link}
                       target="_blank"
                       rel="noreferrer"
                       className="projectbutton"
                     >
                       Live
-                    </CardLink>
+                    </CardLink> */}
                     <CardLink
                       href={project.FE_ghlink}
                       target="_blank"
